@@ -6,34 +6,130 @@
       "telefono": 102013313,
       "email": "juan@juan.com",
       "empresa": "Codigo Con Juan"
-  },
-  {
+    },
+    {
       "id": 2,
       "nombre": "Karen",
       "telefono": 138198313,
       "email": "karen@juan.com",
       "empresa": "Codigo Con Juan"
-  },
-  {
+    },
+    {
       "id": 3,
       "nombre": "Josue",
       "telefono": 31983913,
       "email": "josue@juan.com",
       "empresa": "Codigo Con Juan"
-  },
-  {
+    },
+    {
       "id": 4,
       "nombre": "Miguel",
       "telefono": 319381983,
       "email": "miguel@juan.com",
       "empresa": "Codigo Con Juan"
-  },
-  {
+    },
+    {
       "id": 5,
       "nombre": "Pedro",
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
-  }
-]
+    },
+    {
+      "nombre": "Juan desde react",
+      "empresa": "Codigo con Juan",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "454654465465",
+      "notas": "El msmshkjdshidushfidshb",
+      "id": 6
+    },
+    {
+      "nombre": "Visita al medico",
+      "empresa": "Codigo con Juan",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "454654465465",
+      "notas": "hkjhjhjhkjhkjh",
+      "id": 7
+    },
+    {
+      "nombre": "Transporte",
+      "empresa": "Codigo con Juan",
+      "email": "burgosnatalia84@gmail.com",
+      "telefono": "454654465465",
+      "notas": "hhkjhjhñhñh",
+      "id": 8
+    },
+    {
+      "nombre": "egui",
+      "empresa": "Codigo con Juan",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "454654465465",
+      "notas": "oihhhoihlhlhlhlh",
+      "id": 9
+    },
+    {
+      "nombre": "Visita al medico",
+      "empresa": "Codigo con Juan",
+      "email": "estebanburgos85@gmail.com",
+      "telefono": "454654465465",
+      "notas": "ñjllklñ",
+      "id": 10
+    },
+    {
+      "nombre": "egui",
+      "empresa": "Codigo con Juan",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "999999999999",
+      "notas": "Cocococococococo",
+      "id": 11
+    },
+    {
+      "nombre": "Koki Loco",
+      "empresa": "Codigo con Juan",
+      "email": "burgosnatalia84@gmail.com",
+      "telefono": "999999999999",
+      "notas": "Es un perrito que se siente persona",
+      "id": 12
+    },
+    {
+      "nombre": "Lola de casa",
+      "empresa": "Espuñaplast",
+      "email": "burgosnatalia84@gmail.com",
+      "telefono": "454654465465",
+      "notas": "kgjk lkjkjñlj jñkjlkjlk",
+      "id": 13
+    },
+    {
+      "nombre": "Lolita la Vaga",
+      "empresa": "Espuñaplast",
+      "email": "estebanburgos85@gmail.com",
+      "telefono": "454654465465",
+      "notas": "Solo duerme y por ahi come tambien",
+      "id": 14
+    },
+    {
+      "nombre": "Lolita la Dormilona",
+      "empresa": "Espuñaplast",
+      "email": "narcisagimenez@hotmail.es",
+      "telefono": "999999999999",
+      "notas": "Duerme y sigue durmiendo",
+      "id": 15
+    },
+    {
+      "nombre": "Koki el",
+      "empresa": "Espuñaplast",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "664654654654",
+      "notas": "Es un atorrante",
+      "id": 16
+    },
+    {
+      "nombre": "Kokillo el lokillo",
+      "empresa": "Banco de la Nación Argentina",
+      "email": "kokillo@hotmail.com",
+      "telefono": "111111111111111",
+      "notas": "Es un bandido sin arreglo",
+      "id": 17
+    }
+  ]
 }

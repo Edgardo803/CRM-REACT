@@ -5,6 +5,7 @@ import Cliente from '../components/Cliente';
 export function loader() {
    const clientes = obtenerClientes()
    return clientes
+   
 }
 
 function Index() {
@@ -35,6 +36,7 @@ function Index() {
                           cliente={cliente}
                           key={cliente.id}
                      />
+                     
                 ))}
             </tbody>
 

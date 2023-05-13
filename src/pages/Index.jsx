@@ -4,6 +4,7 @@ import Cliente from "../components/Cliente";
 import Test from "../components/Test";
 
 export function loader() {
+  //loader
   const clientes = obtenerClientes();
   return clientes;
 }

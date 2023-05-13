@@ -130,6 +130,14 @@
       "telefono": "111111111111111",
       "notas": "Es un bandido sin arreglo",
       "id": 17
+    },
+    {
+      "nombre": "Kokillo",
+      "empresa": "Banco de la Nación Argentina",
+      "email": "kokillo@hotmail.com",
+      "telefono": "664654654654",
+      "notas": "Es un bandido terrible",
+      "id": 18
     }
   ]
 }

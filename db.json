@@ -1,11 +1,11 @@
 {
   "clientes": [
     {
-      "nombre": "Juan (Actualizado)",
-      "empresa": "Codigo Con Juan",
+      "nombre": "Juan (Actualizado II)",
+      "empresa": "Codigo Con Juan 2º",
       "email": "juan@juan.com",
       "telefono": "102013313",
-      "notas": "Nueva nota",
+      "notas": "Nueva Nota",
       "id": 1
     },
     {
@@ -32,60 +32,12 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "nombre": "Pedro de Munuera????",
-      "empresa": "Codigo Con Juan",
-      "email": "pedro@juan.com",
-      "telefono": "1398198938",
-      "notas": "Es un cabron por cerrar",
-      "id": 5
-    },
-    {
       "nombre": "Juan desde react",
       "empresa": "Codigo con Juan",
       "email": "edgardo_148@hotmail.com",
       "telefono": "454654465465",
       "notas": "El msmshkjdshidushfidshb",
       "id": 6
-    },
-    {
-      "nombre": "Visita al medico",
-      "empresa": "Codigo con Juan",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "454654465465",
-      "notas": "hkjhjhjhkjhkjh",
-      "id": 7
-    },
-    {
-      "nombre": "Transporte",
-      "empresa": "Codigo con Juan",
-      "email": "burgosnatalia84@gmail.com",
-      "telefono": "454654465465",
-      "notas": "hhkjhjhñhñh",
-      "id": 8
-    },
-    {
-      "nombre": "egui",
-      "empresa": "Codigo con Juan",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "454654465465",
-      "notas": "oihhhoihlhlhlhlh",
-      "id": 9
-    },
-    {
-      "nombre": "Visita al medico",
-      "empresa": "Codigo con Juan",
-      "email": "estebanburgos85@gmail.com",
-      "telefono": "454654465465",
-      "notas": "ñjllklñ",
-      "id": 10
-    },
-    {
-      "nombre": "egui",
-      "empresa": "Codigo con Juan",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "999999999999",
-      "notas": "Cocococococococo",
-      "id": 11
     },
     {
       "nombre": "Koki Loco",
@@ -120,14 +72,6 @@
       "id": 15
     },
     {
-      "nombre": "Koki el",
-      "empresa": "Espuñaplast",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "664654654654",
-      "notas": "Es un atorrante",
-      "id": 16
-    },
-    {
       "nombre": "Kokillo el lokillo",
       "empresa": "Banco de la Nación Argentina",
       "email": "kokillo@hotmail.com",
@@ -142,38 +86,6 @@
       "telefono": "664654654654",
       "notas": "Es un bandido terrible",
       "id": 18
-    },
-    {
-      "nombre": "egui desde react",
-      "empresa": "viva Milei",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "615213951",
-      "notas": "Viva lalibertad carajo",
-      "id": 19
-    },
-    {
-      "nombre": "egui desde react",
-      "empresa": "viva Milei",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "615213951",
-      "notas": "ioioiho  oijhooioij",
-      "id": 20
-    },
-    {
-      "nombre": "egui desde cualquier lado",
-      "empresa": "Infcorp SA",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "615213951",
-      "notas": "Sombras del pasado",
-      "id": 21
-    },
-    {
-      "nombre": "egui desde react",
-      "empresa": "Pedro Gambin",
-      "email": "edgardo_148@hotmail.com",
-      "telefono": "615213951",
-      "notas": "cucucucur rhrhrh  kkdkdkdk",
-      "id": 22
     },
     {
       "nombre": "Narcisa Actualizada",

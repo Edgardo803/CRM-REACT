@@ -13,8 +13,7 @@ export async function obtenerCliente(id) {
 }
 
 export async function agregarCliente(datos) {
-    
- try {
+    try {
      const respuesta = await fetch(import.meta.env.VITE_API_URL, {
         method: 'POST',
         body: JSON.stringify(datos),
@@ -24,11 +23,9 @@ export async function agregarCliente(datos) {
      })
      await respuesta.json()
  } catch (error) {
-     console.log(error)
+     
  }
 }
-
-
 export async function actualizarCliente(id, datos) {
     try {
         const respuesta = await fetch(`${import.meta.env.VITE_API_URL}/${id}`, {
@@ -42,4 +39,14 @@ export async function actualizarCliente(id, datos) {
     } catch (error) {
         console.log(error)
     }
+}
+export async function eliminarCliente(id) {
+   try {
+    const respuesta = await fetch(`${import.meta.env.VITE_API_URL}/${id}`, {
+       method: 'DELETE'
+    })
+    await respuesta.json()
+ } catch (error) {
+    console.log(error)
+ }
 }

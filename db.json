@@ -9,15 +9,16 @@
       "id": 1
     },
     {
-      "id": 2,
-      "nombre": "Karen",
-      "telefono": 138198313,
+      "nombre": "Karen AAAAAA",
+      "empresa": "Codigo Con Juan",
       "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "138198313",
+      "notas": "Nueva Nota para Karen",
+      "id": 2
     },
     {
       "nombre": "Josue",
-      "empresa": "viva Milei",
+      "empresa": "Mercadona",
       "email": "edgardo_148@hotmail.com",
       "telefono": "615213951",
       "notas": "Es de la biblia???",

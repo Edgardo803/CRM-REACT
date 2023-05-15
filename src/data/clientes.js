@@ -1,4 +1,5 @@
 
+
 export async function obtenerClientes() {
     const respuesta = await fetch(import.meta.env.VITE_API_URL)
     const resultado = await respuesta.json()
@@ -15,7 +16,7 @@ export async function agregarCliente(datos) {
     
  try {
      const respuesta = await fetch(import.meta.env.VITE_API_URL, {
-        method: 'PUT',
+        method: 'POST',
         body: JSON.stringify(datos),
         headers: {
             'Content-Type': 'application/json'
@@ -26,6 +27,7 @@ export async function agregarCliente(datos) {
      console.log(error)
  }
 }
+
 
 export async function actualizarCliente(id, datos) {
     try {
@@ -39,5 +41,5 @@ export async function actualizarCliente(id, datos) {
         await respuesta.json()
     } catch (error) {
         console.log(error)
-    }   
+    }
 }

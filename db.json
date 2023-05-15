@@ -1,11 +1,12 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Juan",
-      "telefono": 102013313,
+      "nombre": "Juan (Actualizado)",
+      "empresa": "Codigo Con Juan",
       "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "102013313",
+      "notas": "Nueva nota",
+      "id": 1
     },
     {
       "id": 2,
@@ -15,11 +16,12 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "id": 3,
       "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "viva Milei",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "615213951",
+      "notas": "Es de la biblia???",
+      "id": 3
     },
     {
       "id": 4,
@@ -29,11 +31,12 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
+      "nombre": "Pedro de Munuera????",
+      "empresa": "Codigo Con Juan",
       "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "1398198938",
+      "notas": "Es un cabron por cerrar",
+      "id": 5
     },
     {
       "nombre": "Juan desde react",
@@ -138,6 +141,46 @@
       "telefono": "664654654654",
       "notas": "Es un bandido terrible",
       "id": 18
+    },
+    {
+      "nombre": "egui desde react",
+      "empresa": "viva Milei",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "615213951",
+      "notas": "Viva lalibertad carajo",
+      "id": 19
+    },
+    {
+      "nombre": "egui desde react",
+      "empresa": "viva Milei",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "615213951",
+      "notas": "ioioiho  oijhooioij",
+      "id": 20
+    },
+    {
+      "nombre": "egui desde cualquier lado",
+      "empresa": "Infcorp SA",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "615213951",
+      "notas": "Sombras del pasado",
+      "id": 21
+    },
+    {
+      "nombre": "egui desde react",
+      "empresa": "Pedro Gambin",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "615213951",
+      "notas": "cucucucur rhrhrh  kkdkdkdk",
+      "id": 22
+    },
+    {
+      "nombre": "Narcisa Actualizada",
+      "empresa": "NGM",
+      "email": "edgardo_148@hotmail.com",
+      "telefono": "615213951",
+      "notas": "Es que le gusta la comida del salero",
+      "id": 23
     }
   ]
 }

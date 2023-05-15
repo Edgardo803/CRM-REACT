@@ -13,7 +13,7 @@ function Test() {
     setText(handleToUpperCase(e.target.value));
   };
 
-  console.log(text);
+  //console.log(text);
 
   return (
     <div>

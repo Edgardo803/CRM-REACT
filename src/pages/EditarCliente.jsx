@@ -4,17 +4,17 @@ import Formulario from "../components/Formulario"
 import Error from '../components/Error'
 
 export async function loader({ params }) {
-  const cliente = await obtenerCliente(params.clienteId);
-  if (Object.values(cliente).length === 0) {
-    throw new Response("", {
+  const cliente = await obtenerCliente(params.clienteId)
+  if(Object.values(cliente).length === 0) {
+    throw new Response('', {
       status: 404,
       statusText: "El cliente no fue encontrado"
-    });
+    })
   }
   return cliente
 }
 
-export async function action({ request, params }) {
+export async function action({request, params}) {
   const formData = await request.formData();
   const datos = Object.fromEntries(formData);
   const email = formData.get("email");
